@@ -7,3 +7,9 @@
 3.Selected by personal preference, no guarantee of normality
 
 4.Contains NSFW contents
+
+5.Can be used for GAN training
+
+Preview:
+
+![0d021fdd6ef1331c65545114d9a40ac7.jpg](assets/preview/0d021fdd6ef1331c65545114d9a40ac7.jpg)
