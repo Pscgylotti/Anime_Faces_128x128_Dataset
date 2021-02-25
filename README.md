@@ -4,6 +4,6 @@
 
 2.Contains 38,354 pics in .jpg format
 
-3.Selected by personal preference, no promise of normality
+3.Selected by personal preference, no guarantee of normality
 
 4.Contains NSFW contents
